@@ -1,0 +1,15 @@
+   Peso Altura Edad Sexo Nombres
+    77   1.63   23    1    Pepe
+    58   1.63   23    2     Ana
+    89   1.85   26    1  Manolo
+    55   1.62   23    1    Rafa
+    47   1.60   26    2   Maria
+    60   1.63   26    2    Auxi
+    54   1.70   22    1  German
+    58   1.65   23    2   Celia
+    75   1.78   26    2  Carmen
+    65   1.70   24    1    Juan
+    82   1.77   28    1    Dani
+    85   1.83   42    1   Antonio
+    75   1.74   25    2  Belinda
+    65   1.65   26    2    Sara

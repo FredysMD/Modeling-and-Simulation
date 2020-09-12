@@ -1,0 +1,13 @@
+ID, Name, Email, Major, Year
+1044, FranMorton, fran.m@quama.edu, Statistics, 2015
+1035, KatoMullins, tempor@giat.com, Marketing, 2014
+1046, JordanKeller, Cum@gmail.com, Chemistry, 2014
+1084, NaN, eu@famesacturpis.com, Finance, 2016
+1010, DeannaOrtega, Dea.Ortega@velit.ca, Chemistry, 2016
+1096, JoeEaton, je@euismod.org, MIS, 2014
+1283, YokoWashington, yoko@yahoo.co.uk, Marketing, @
+1074, EbonyFarrell, efarrella@gravid.comC, hemistry, 2017
+1034, QuinnDelacruz, none, Marketing, 2017
+1028, MageeHumphrey, mageehump@gmail.com, Physics, 2016
+1003, NaN, kcooper@hotmail.com, Accounting, 2014
+1021, CarsonRoy, croy@yahoo.com, History, 2017

@@ -1,0 +1,7 @@
+No,mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,car_name
+1,28,4,140,90,2264,15.5,71,     chevrolet vega 2300
+2,19,3,70,97,2330,13.5,72,     mazda rx2 coupe
+3,36,4,107,75,2205,14.5,82,     honda accord
+4,28,4,97,92,2288,17,72,     datsun 510 (sw)
+5,21,6,199,90,2648,15,70,     amc gremlin
+6,23,4,115,95,2694,15,75,     audi 100ls
