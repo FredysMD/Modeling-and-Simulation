@@ -1,5 +1,6 @@
 library(readxl)
 library(kableExtra)
+library(faraway)
 
 estudiantes <- read.table("C:/Users/usuario/Documents/Modeling and simulation course/Exercises-in-R---Course-introduction/Datas/TXT/Estudiantes.txt", header = TRUE)
 
