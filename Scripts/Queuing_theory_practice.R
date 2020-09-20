@@ -27,7 +27,7 @@ finServicio    <- rep(0,N); finServicio[posicion]   <- iniciServicio[posicion] +
 vector_2_N <- 2:N
 
 for (i in vector_2_N) {
-  iniciServicio[i] = max(tllegadaCliente[i],finServicio[i+1])
+  iniciServicio[i] = max(tllegadaCliente[i],finServicio[i-1])
   finServicio[i] = iniciServicio[i] + tservicio[i]
 }
  
