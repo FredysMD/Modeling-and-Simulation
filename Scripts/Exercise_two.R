@@ -22,4 +22,4 @@
 (raza <-  matrix(c(bd[1]),nrow = 10))
 (matriz <- cbind(matriz,raza))
 
-(datos <- data("worldcup"))
+
