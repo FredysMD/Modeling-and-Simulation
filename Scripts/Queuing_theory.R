@@ -53,7 +53,7 @@ tiempunidsist <- function(lamda,miu){
 
 numpromunidaespfila <- function(lamda,miu){
   
-  Lq <- (lamda)^2/lamda*(lamda - miu )
+  Lq <- (lamda)^2 / (miu*( miu - lamda ))
    
 }
 
@@ -61,7 +61,7 @@ numpromunidaespfila <- function(lamda,miu){
 
 tiemunidaespfila <- function(lamda,miu){
   
-  Ws <- lamda/lamda*(lamda - miu)
+  Ws <- lamda/(miu*( miu - lamda ))
 
 }
 
