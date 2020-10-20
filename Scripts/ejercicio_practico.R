@@ -17,7 +17,7 @@ datos <- data.frame("zona1"= zona1, "zona2" = zona2)
 (summary(datos))
 
 paste("moda de zona 1: ",moda(datos$zona1),sep="") 
-(varianza <- datos$zona1)
+
 
 paste("varianza de zona 1: ",var(datos$zona1),sep="")
 paste("varianza de zona 2: ",var(datos$zona2),sep="")
