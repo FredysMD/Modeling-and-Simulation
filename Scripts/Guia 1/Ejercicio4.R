@@ -66,7 +66,7 @@ hist(DatoB$Altura, main = "Datos B", xlab = xlabtext, ylab = ylabtext)
 #----------------------
 cva <- Cv(DatoA$Volumen)
 cvb <-Cv(DatoB$Volumen)
-paste("Datos mas Homogeneos en Diametro ",cva, " DatoA y ", cvb, " DatoB")
+paste("Datos mas Homogeneos en Volumen ",cva, " DatoA y ", cvb, " DatoB")
 #----------------------
 # Media y mediana para las alturas
 #----------------------
