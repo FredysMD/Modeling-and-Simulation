@@ -12,7 +12,8 @@ documento <- read.table("C:/Users/usuario/Documents/Modeling and simulation cour
 # Captamos los datos en un data.frame
 #-------------------
 
-Apartamentos <- data.frame(documento) 
+Apartamentos <- data.frame(documento)
+(Apartamentos)
 #-------------------
 
 #-------------------
@@ -20,8 +21,7 @@ Apartamentos <- data.frame(documento)
 #-------------------
 color <- c("red","green")
 counts <- table(Apartamentos$Precio, Apartamentos$Area)
-(counts)
-barplot(counts, main="Apartamentos Área vs Precio)" , col=color)
+barplot(counts, main="Apartamentos Área vs Precio" ,col=color)
 legend("topleft", c("Precio", "Área"), cex = 0.8, fill = color)
 #-------------------
 
