@@ -1,15 +1,16 @@
 N <- 60 # Población
-n <- 20 # muestra
+n <- 20   # Muestra
+posicion <- 1
 
-k <- N/n 
+k <- N/n
 
-i <- sample(1:k,1)
+i <- sample(posicion:k,1) # un valor aleatorio entre 1 y k
 
 paste("Saltos: ",k,sep =" ")
 
 M <- matrix()
 
-Poblacion <- c(1:60)
+Poblacion <- c(posicion:N)
 
 paste("Valor inicial: ",i,sep = " ")
 
@@ -21,4 +22,3 @@ for (n in 2:n) {
 }
 
 (M)
-
