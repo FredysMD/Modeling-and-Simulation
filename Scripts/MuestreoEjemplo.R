@@ -8,7 +8,7 @@ i <- sample(posicion:k,1) # un valor aleatorio entre 1 y k
 
 paste("Saltos: ",k,sep =" ")
 
-M <- matrix()
+M <- c()
 
 Poblacion <- c(posicion:N)
 
